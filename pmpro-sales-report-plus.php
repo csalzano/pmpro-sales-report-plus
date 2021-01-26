@@ -470,10 +470,6 @@ function pmpro_report_sales_plus_page()
 	</form>
 	<?php
 
-
-
-	//OK you need to make this plugin a repo and repeat this change:
-
 	/**
 	 * @param  integer $units_in_period Used for averages.
 	 */
